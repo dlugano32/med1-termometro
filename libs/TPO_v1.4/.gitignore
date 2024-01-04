@@ -1,0 +1,7 @@
+*.launch
+*.xml
+*.map
+*.ld
+*.mk
+*.d
+*.su
